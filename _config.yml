@@ -1,0 +1,14 @@
+# Site settings
+title: "RC's Blog"
+email: rc@rchowe.com
+description: >
+    A blog about stuff.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+twitter_username: rchowe
+github_username:  rchowe
+
+# Build settings
+markdown: kramdown
+
+excerpt_separator: "<!--more-->"
