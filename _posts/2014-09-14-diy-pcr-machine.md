@@ -20,4 +20,4 @@ I am using the following materials to build my PCR machine:
 
 Additionally, I used jumper wire and a breadboard to prototype the low voltage components, and a power supply I already had to supply the high voltage components.
 
-I also drew up some [circuit diagrams]({{site.url}}/assets/PCR.pdf) of how I intend to put everything together.
+I also drew up some [circuit diagrams]({{site.baseurl}}/assets/PCR.pdf) of how I intend to put everything together.

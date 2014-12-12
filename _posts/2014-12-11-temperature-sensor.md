@@ -1,0 +1,18 @@
+---
+title: Temperature Sensor
+layout: post
+---
+
+I finally have most of the parts for my PCR machine. I ordered a sheet of lexan, and decided instead of using a thermocouple to use a thermistor. I setup a 10 k&Omega; thermistor and an analog-to-digital converter attached to my Raspberry Pi.
+<!--more-->
+
+The following is a picture of my thermistor setup (ignore the Arduino nano):
+
+![]({{site.baseurl}}/assets/2014-12-11-thermistor.png)
+
+The thermistor seems to have a large enough range of values, even on the A2D converter, as when you breathe on it it can change value from about 270/1023 to 290/1023. I still have to calibrate it, likely with some other thermometer, however it seems that this will work nicely (especially with the aluminum block I have to hold the tubes.
+
+I have been testing this out on the Raspberry Pi, and it has become somewhat obvious that I am likely going to have to find some way to run a real-time OS or use an Arduino to control the wirewound resistors heating the PCR machine. The Raspberry Pi has a variance of up to 10 ms when measuring thermocouple values when idle, which when controlling the switch to open and close the wiremound resistors is probably unacceptible. I am reluctant to wholly switch to the Arduino, since one of the cool things about running this on the Pi is the ability to monitor and program the machine via a web interface.
+
+I have a breadboard, which I am going to solder this setup onto to make it permanent.
+
