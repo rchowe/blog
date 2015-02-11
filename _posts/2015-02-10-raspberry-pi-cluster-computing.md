@@ -132,7 +132,11 @@ Yes, There are additional tricky ways to make code like this faster, such as
 [MPI](https://en.wikipedia.org/wiki/Message_Passing_Interface), however they are much more complicated. If you have a
 tool which takes a long time, the additional half second per job dispatched individually with <code>bsub</code> probably
 will not matter, and it might not be worth taking the time to write a wrapper script to use a job array or some other
-convoluted solution to speed up the time taken in the cluster manager.
+convoluted solution to speed up the time taken in the cluster manager. If we really wanted to search the numbers from
+2 to 1000, it would take about 8.5 minutes to submit all of the jobs (or 0.5 seconds if using a job array). However, if
+the analysis takes more than about 10 minutes per sample, you've already saved yourself a lot of time by parallelizing
+the job, and (depending on your cluster situation) your that 0.5 seconds per job may be taken out of the time the job
+is sitting in the queue not doing anything anyway.
 
 Also, realistically, one might (rightly) say that I am abusing the filesystem to store the prime numbers (cluster job
 outputs) before sorting them, in a way that I did not have to do in the non-cluster examples. This is a problem
