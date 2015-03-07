@@ -1,6 +1,7 @@
 ---
 title: "Cluster Computing on Raspberry Pis"
 layout: post
+tags: HPC Raspberry-Pi LSF
 ---
 
 One of my interests is cluster computing -- the ability to share computing effort between multiple computers. I am also

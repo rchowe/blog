@@ -1,6 +1,7 @@
 ---
 title: Plans for my DIY PCR Machine
 layout: post
+tags: Biology PCR Raspberry-Pi Genetics
 ---
 
 As a fun project with my Raspberry Pi, I decided to try to build a PCR machine.

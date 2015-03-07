@@ -1,6 +1,7 @@
 ---
 title: "Product Idea: Raspberry Pi-based Music Server"
 layout: post
+tags: Product Raspberry-Pi
 ---
 
 I often say to my friends that it would be really cool to start a company and make something. I've been toying with

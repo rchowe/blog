@@ -1,6 +1,7 @@
 ---
 title: "Sleek File Uploads with JavaScript"
 layout: post
+tags: JavaScript HTML
 ---
 
 Uploading files in HTML documents using JavaScript has gotten easier, but is still not as simple as it could be.
