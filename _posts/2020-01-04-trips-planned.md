@@ -20,7 +20,7 @@ _An American Airlines 777-300_
 ### Paris in the Winter
 
 The first trip that I have planned is Paris in January with my family. They are excited to see [an exhibition of Da Vinci drawings](https://www.louvre.fr/en/expositions/leonardo-da-vinci) that is now sold out; I am excited to see the Louvre,
-the Mus&eacute;e d'Orsay, and possibly the Rhodan museum with less foot traffic than normal. The last time I was in
+the Mus&eacute;e d'Orsay, and possibly the Rhodin museum with less foot traffic than normal. The last time I was in
 Paris (before I was particularly good at figuring out travel), I took the TGV from Geneva for the day and was only there
 for about ten hours; I saw most of the Louvre, enjoyed walking some of the _Viaduc des Arts_, and had a croissant in a
 French cafe, but my feet were not working by the end of the day.
