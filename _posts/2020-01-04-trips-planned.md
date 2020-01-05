@@ -8,7 +8,7 @@ tags: Travel Paris Taipei Japan American Japan-Airlines Cathay-Pacific Delta
 <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
 <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
 
-Since it's the end of the year in 2019, and since I have planned a fair amount of travel for 2020, I thought it would be
+Since it's the beginning of the year, and since I have planned a fair amount of travel for 2020, I thought it would be
 fun to write a travel blog about what that's like, especially since my friends and family do not want to hear me talk
 about airfare or airplanes any more.
 
@@ -207,7 +207,7 @@ for (let key in maps) {
     svg.attr("height", height);
     
     let projection = d3.geoMercator()
-        .scale(150 * width / 1000.0)
+        .scale(110)
         .translate([width / 2.0, height / 2.0 * 1.3]);
     
     if (svg.attr("data-hemisphere") == "pacific")
@@ -298,6 +298,9 @@ for (let key in maps) {
                 }
             }
         }
+
+        svg.select("g")
+            .attr("transform", "scale(" + 1.35 * width / 1000 + ")");
     });
 }
 
@@ -309,7 +312,7 @@ function sizeChange() {
         
         console.log("size change");
         svg.select("g")
-            .attr("transform", "scale(" + width / 1000 + ")");
+            .attr("transform", "scale(" + 1.35 * width / 1000 + ")");
         svg.attr("height", height);
     }
 }
