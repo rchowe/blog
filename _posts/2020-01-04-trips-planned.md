@@ -14,17 +14,20 @@ about airfare or airplanes any more.
 
 <!--more-->
 
+![]({{site.baseurl}}/assets/aa773.jpg)
+_An American Airlines 777-300_
+
 ### Paris in the Winter
 
 The first trip that I have planned is Paris in January with my family. They are excited to see [an exhibition of Da Vinci drawings](https://www.louvre.fr/en/expositions/leonardo-da-vinci) that is now sold out; I am excited to see the Louvre,
-the Mus&eacute;e d'Orsay with hopefully less foot traffic than normal. The last time I was in Paris (before I was
-particularly good at figuring out travel), I took the TGV from Geneva for the day and was only there for about ten
-hours; I saw most of the Louvre, enjoyed walking some of the Viaduc des Arts, and had a croissant in a French cafe, but
-my feet were not working by the end of the day.
+the Mus&eacute;e d'Orsay, and possibly the Rhodan museum with less foot traffic than normal. The last time I was in
+Paris (before I was particularly good at figuring out travel), I took the TGV from Geneva for the day and was only there
+for about ten hours; I saw most of the Louvre, enjoyed walking some of the _Viaduc des Arts_, and had a croissant in a
+French cafe, but my feet were not working by the end of the day.
 
 <div class="svg-container" style="max-width: 1000px; margin: 1em auto;">
     <svg id="paris-map" data-hemisphere="atlantic" style="max-width: 1000px; width: 100%;"></svg>
-    <div style="font-size: 110%; font-style: italic; margin-bottom: 0.5em;">
+    <div style="font-style: italic; margin-bottom: 0.5em;">
         Flight Route, Boston to Paris and Return. Strange how almost all major cities in the northeast are in a straight
         line on a great circle map.
     </div>
@@ -41,14 +44,17 @@ found a good deal via JFK and Philadelphia. Specifically, we are flying:
 It's only a moderate amount of backtracking in the US, and it seems worth it to be able to sleep on the way over. I also
 love that you can fly from Boston to JFK in a lie-flat seat on the A321T -- I feel like a movie star!
 
+![]({{site.baseurl}}/assets/mtinari.jpg)
+_The 10,000 Tori Gates on Mt. Inari_
+
 ### Taipei and Japan (in the Winter)
 
-Once we get back from Paris, I'll have a week at home and then get on a plane to New York, where I'll have a day to see
-museums and possibly some theatre before getting on a plane to at 6 AM the next morning.
+Once we get back from Paris, I'll have a week at home and then get on a plane to New York, where I get on a plane at
+6 AM the next morning.
 
 <div class="svg-container" style="max-width: 1000px; margin: 1em auto;">
     <svg id="taipei-map" data-hemisphere="pacific" style="width: 100%; max-width: 1000px;"></svg>
-    <div style="font-size: 110%; font-style: italic; margin-bottom: 0.5em;">Flight Route, Boston to Taiwan, Japan, and Return</div>
+    <div style="font-style: italic; margin-bottom: 0.5em;">Flight Route, Boston to Taiwan, Japan, and Return</div>
 </div>
 
 This is not the most straightforward routing, but it was one that I found interesting. Interestingly enough, the
@@ -79,12 +85,16 @@ After a week in Japan, my friend and I fly back to Taipei where I stay a night a
 - **Taipei Taoyuan (TPE) to Tokyo Narita (NRT)** -- Japan Airlines Boeing 737-800
 - **Tokyo Narita (NRT) to Boston (BOS)** -- Japan Airlines Boeing 787-9
 
-I am quite excited to be taking JL 8, the flight that proved that Boston to Asia routes are viable. After I get back to Boston, I'll be flying down to New York again to make the routing legal. Although this was a good fare to Asia,
-I did make a few mistakes in planning, which I will address in another blog post.
+I am quite excited to be taking JL 8, the flight that proved that Boston to Asia routes are viable. After I get back to
+Boston, I'll be flying down to New York again to make the routing legal. Although this was a good fare to Asia, I did
+make a few mistakes in planning, which I will address in another blog post.
 
 I expect activities in Taipei will mostly be lunar New Year celebrations and night markets, and in Japan we will see the
 sights around Nagoya, Kyoto, and Osaka. Winter weather in Taipei should be about 70&deg;F and in southern Japan should
 be around 50&deg;F, which beats Boston.
+
+![]({{site.baseurl}}/assets/jl773.jpg)
+_A Japan Airlines 777-300_
 
 ### Japan Again on Miles
 
@@ -94,19 +104,23 @@ redeeming miles and I finally get to use my miles for something! It is in August
 
 <div class="svg-container" style="max-width: 1000px; margin: 1em auto;">
     <svg id="japan-map" data-hemisphere="pacific" style="width: 100%; max-width: 1000px;"></svg>
-    <div style="font-size: 110%; font-style: italic; margin-bottom: 0.5em;">Flight Route, Boston to Japan and Return</div>
+    <div style="font-style: italic; margin-bottom: 1em;">Flight Route, Boston to Japan and Return</div>
 </div>
 
 Initially when planning this trip, I found and booked award seats to Los Angeles on American and then to Tokyo on Japan
 Airlines -- sign me up for a hot fudge sundae and airplane curry (but not at the same time...)! However, about 2 weeks
 after I booked, JAL opened up two award seats in First via Chicago. This was great since:
 
-- American's award chart charges a 20,000 mile premium for First over Business to Asia 1.
+- American's award chart charges a 20,000 mile premium for First over Business from the US to Japan, which I thought was
+  worth it for the novelty of flying international First Class.
 - American allows free changes on award tickets if you preserve the same origin, destination, and airlines on the award.
 - This itinerary is faster overall, involves a much shorter domestic segment, and leaves Boston at 8:00 AM instead of
   6:30 AM.
 
-So that's the story of how I sacrified my American Airlines hot fudge sundae to fly JAL First ;).
+So that's the story of how I sacrified my American Airlines hot fudge sundae to fly JAL First &#x1F609;.
+
+![]({{site.baseurl}}/assets/aa_hot_fudge_sundae.jpg)
+_A hot fudge sundae I had on a previous flight._
 
 For the return, my attraction to obscure flights
 showed up again, but this time it is an advantage. It seems like there are always a ton of business class award seats on
@@ -116,8 +130,8 @@ is about the same distance from my house as Logan.
 
 - **Boston (BOS) to Chicago O'Hare (ORD)** -- American Airlines Airbus A321
 - **Chicago O'Hare (ORD) to Tokyo Haneda (HND)** -- Japan Airlines Boeing 777-300
-- **Nagoya Chubu Centrair (NGO) to Detroit (DTW)** -- Delta Air Lines Airbus A330-200
-- **Detroit (DTW) to Providence (PVD)** -- Delta Air Lines Airbus A320
+- **Nagoya Chubu Centrair (NGO) to Detroit (DTW)** -- Delta Airbus A330-200
+- **Detroit (DTW) to Providence (PVD)** -- Delta Airbus A320
 
 I expect that attractions will include conveyor belt sushi, goshuin books, onsen, climbing Mt. Inari, and hopefully
 seeing a part of Japan that I haven't seen before such as Hokkaido, since this will be my fifth trip to Japan. My
