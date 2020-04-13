@@ -2,6 +2,7 @@
 title: Trips I (Currently) Have Planned for 2020
 layout: post
 tags: Travel Paris Taipei Japan American Japan-Airlines Cathay-Pacific Delta
+excerpt_separator: <!--more-->
 ---
 
 <script src="https://d3js.org/d3.v4.js"></script>

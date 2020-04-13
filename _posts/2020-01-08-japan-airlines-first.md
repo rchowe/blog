@@ -2,10 +2,8 @@
 title: Notes on Booking Japan Airlines First Class
 layout: post
 tags: Travel American Japan-Airlines Award-Travel Award-Booking
+excerpt_separator: <!--more-->
 ---
-
-![]({{site.baseurl}}/assets/jl773.jpg)
-_A Japan Airlines 777-300_
 
 I like flying in the pointy end of the plane. There, I said it. I have annoyed my family to no end talking about it.
 Arguably, I have a problem.
@@ -17,6 +15,11 @@ Except American Airlines allows free changes to awards in certain circumstances.
 happy with what I have, or check every day for award seats in First like some kind of obsessed person.
 
 You can guess which option I chose.
+
+<!--more-->
+
+![]({{site.baseurl}}/assets/jl773.jpg)
+_A Japan Airlines 777-300_
 
 ## Why I Did It
 

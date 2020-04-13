@@ -2,12 +2,8 @@
 title: Visualizing American Express' Transfer Bonus History
 layout: post
 tags: Travel Points American-Express
+excerpt_separator: <!--more-->
 ---
-
-_You can see the finished product without reading the blog post commentary
-[here](http://www.rchowe.com/amex-transfer-bonus-history.html)._
-
-<hr style="border: none; border-top: #ddd 1px solid; margin: 1em 0px;" />
 
 I am a big fan of time bar-based visualizations, such as the timeline view in
 [ITA Matrix](https://matrix.itasoftware.com). I think it it easier to intuitively understand how things are arranged
@@ -16,9 +12,12 @@ the next American Express transfer bonus to Virgin Atlantic was, because I was i
 flight from Nagoya to Detroit. The transfer history is
 [available on the internet](https://www.flyertalk.com/forum/american-express-membership-rewards/1321588-when-next-airline-transfer-bonus-see-wiki-usa-history-13.html),
 but it is difficult to see recurring trends. At the time, I drew it on paper, but since I have some time on my hands
-now, I decided to make it into a web page. It is available
-[here](http://www.rchowe.com/amex-transfer-bonus-history.html), but if you don't want to tear your eyes away from this
-blog post, it looks something like this:
+now, I decided to make it into a web page.
+
+<!--more-->
+
+It is available [here](http://www.rchowe.com/amex-transfer-bonus-history.html), but if you don't want to tear your eyes
+away from this blog post, it looks something like this:
 
 ![]({{site.baseurl}}/assets/2020-04-12-amex-bonus-history.png)
 
