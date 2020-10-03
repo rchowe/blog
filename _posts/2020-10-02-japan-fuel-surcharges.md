@@ -59,7 +59,7 @@ are a bunch of other Star Alliance airlines that ANA does not charge fuel surcha
 Unfortunately, the following are not options:
 
 - **Singapore Airlines** -- They fly Singapore to Frankfurt to New York (JFK), and they will sell you Frankfurt to JFK
-    as a standalone segment, but they do not open business class awards to partner programs.
+    as a standalone segment, but they do not open business class awards to star alliance partner programs (they do to Alaska, but you cannot book JFK-FRA through Alaska and there are, in my opinion, better uses for Alaska miles).
 - **Virgin Atlantic** -- You can book Virgin Atlantic flights with ANA miles, but sadly they do not qualify for the RTW
     awards since they are not a Star Alliance airline. They also have some hefty fuel surcharges.
 
