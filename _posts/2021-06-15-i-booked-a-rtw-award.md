@@ -143,7 +143,7 @@ my AAdvantage number to the booking. Since I have American Airlines elite status
 intra-Europe British Airways flight without having to pay. Shame on BA for charging for seat assignments in business
 class.
 
-![Shame!]({{site.baseurl}}/assets/BA-E190.jpg)
+![Shame!]({{site.baseurl}}/assets/BA-E190.JPG)
 _Shame! Bad airline!_
 
 Cathay Pacific's website did not support changing the frequent flyer number on a booking that did not contain any
